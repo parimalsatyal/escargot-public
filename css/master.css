@@ -255,13 +255,11 @@ ul#listing .type {
 
 .profile img {
 	float: left;
-	margin-top: 1.3em;
+    	height: 200px;
+	margin: 1.3em 1em 1em 0;
 }
 
 .profile p {
-	display: block;
-	float: right;
-	width: 370px;
 
 }
 
